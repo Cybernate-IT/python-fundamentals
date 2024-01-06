@@ -1,1 +1,86 @@
-*/.ipynb_checkpoints/*
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+bin/
+lib/
+lib64/
+include/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Environment-specific files
+.env
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# Distribution/distutils metadata
+build/
+dist/
+
+# Egg-related artifacts
+*.egg-info/
+*.egg
+
+# Pipenv
+Pipfile.lock
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Django
+*.pyc
+*.pyo
+__pycache__
+db.sqlite3
+media/
+
+# Flask
+instance/
+
+# PyInstaller
+build/
+*.spec
+
+# MyPy
+.mypy_cache/
+
+# pytest
+__pycache__/
+*.pyc
+
+# Sphinx documentation
+docs/_build/
+
+# Ignore local configuration
+local_settings.py
+
+# Ignore compiled JavaScript
+*.js
+
+# Ignore compiled CSS
+*.css
+
+# Ignore compiled TypeScript
+*.ts
+*.tsx
+
+# Ignore node_modules
+node_modules/
