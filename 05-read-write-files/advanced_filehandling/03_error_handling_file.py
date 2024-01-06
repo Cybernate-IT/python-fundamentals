@@ -56,3 +56,4 @@ def write_with_error_handling_using_context(file_path, content):
 
 # Uncomment the line below to see the behavior of handling errors during writing with context manager
 # write_result_with_context_error_handling = write_with_error_handling_using_context("/etc/some_protected_file.txt", "Hello!")
+

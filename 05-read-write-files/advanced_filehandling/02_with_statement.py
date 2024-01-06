@@ -57,8 +57,9 @@ def handle_exceptions_with_context(file_path):
 # Uncomment the line below to see the behavior of handling exceptions with context
 # file_content_with_exception = handle_exceptions_with_context("example.txt")
 
-
-
+# -----------------------
+# OUTPUT
+# -----------------------
 
 # Entering the context
 # Inside the context

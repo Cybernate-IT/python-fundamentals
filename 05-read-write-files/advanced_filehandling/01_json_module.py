@@ -50,3 +50,4 @@ def read_write_json_file(file_path, data):
 
 # Uncomment the line below to see the behavior of the JSON file example
 # file_data = read_write_json_file("sample.json", sample_data)
+
