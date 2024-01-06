@@ -17,7 +17,16 @@ include/
 
 # IDE files
 .idea/
-.vscode/
+*.vscode/
+
+# PyCharm files
+*.iml
+.idea/
+*.pyt
+*.pyc
+*.pyo
+*.pyd
+*.db
 
 # Logs and databases
 *.log
